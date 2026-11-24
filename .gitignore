@@ -1,0 +1,6 @@
+# Generados por instalar.py (contienen rutas de tu ordenador)
+config.json
+.mcp.json
+.claude/
+__pycache__/
+*.pyc
